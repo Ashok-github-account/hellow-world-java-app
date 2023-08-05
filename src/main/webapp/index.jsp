@@ -1,15 +1,15 @@
 <html>
 <body>
-  <h2>Hello Hammad Siddiqui ?</h2>
-<h3>Welcome to Cloud With Hammad| Microsoft Certified Security Engineer, Azure & AWS Solution Architect </h3>
+  <h2>Good Morning..Jyothshna mam</h2>
+<h3>hi mam this is Ashok Chakravarthy, Devops morning 9.30 batch..here i deploy a simple hello word..application in apache tomcat server by using jenkins ci-cd pipe line</h3>
   
-<marquee>Welcome to Cloud With Hammad</marquee>
+<marquee>Welcome to devops 3rd bathch </marquee>
 
-<marquee direction="up">Welcome to Cloud With Hammad| DEVOPS </marquee>
+<marquee direction="up">welcome to devops 3rd batch </marquee>
 
 <marquee direction="down" width="250" height="200" behavior="alternate" style="border:solid">
   <marquee behavior="alternate">
-    Welcome to Cloud With Hammad| DEVOPS
+    Welcome to DEVOPS
   </marquee>
 </marquee>
   <B> <U> <I> Jenkins Installation </B> </i> </u>
